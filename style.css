@@ -1,0 +1,56 @@
+.navbar, .services {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.btn-kontakt {
+    background-color: #577367 !important;
+}
+
+.album {
+    background-color: #d3c2a8;
+}
+
+.kont {
+    background-color: #555243;
+}
+
+h2 {
+    color: #555243;
+}
+
+#block-4 {
+    background-color: 
+    #577367;
+    padding: 50px;
+    margin-bottom: 40px;
+}
+
+.portfolioSlide {
+    border: #555243 solid 3px;
+}
+
+@media all and (max-width: 800px) {
+    .caruselHome {
+        height: 500px;
+    }
+
+    .imgBlock3 {
+        height: 165px;
+    }
+
+    .imgBlock4 {
+        height: 200px;
+    }
+}
+
+@media all and (max-width: 500px) {
+    .caruselHome {
+        height: 250px;
+    }
+    .btnOnas {
+        margin-bottom: 20px;
+    }
+    .fotterText {
+        font-size: 13px;
+    }
+}
